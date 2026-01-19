@@ -1,0 +1,911 @@
+==================================================
+      HASIL REKONSTRUKSI MANUAL: FOX BABY
+        (Kombinasi Versi EN dan ID)
+==================================================
+
+--- 1.1 Tujuan Produk/Definisi ---
+[TIDAK ADA DATA DITEMUKAN]
+
+--- 1.2 Panduan Keamanan ---
+maintenance and storage, etc. as well as safety procedures to device. sport) and etc. care products, etc.), so don’t use them on the test site.
+protect both the users and equipment. Refer to the respective ● Check the device before use to make sure that there is no 1.3 Environment requirements ● As to the fingers which are too cold or too thin or whose
+chapter for details. visible damage that may affect user’s safety and device Storage Environment fingernail is too long, it may affect the measured results, so
+manufacturer is NOT responsible for the safety, reliability and ● Some functional testers or patient simulators can be used to a) Temperature: +10°C ~ +40°C sensor will influence the measurement.
+instructions. The manufacturer’s warranty service does not cover the manual for the detailed operation steps. 1.4 Precautions subject’s arteriole. Make sure the optical path is free from any
+such faults. ● Some functional testers or patient simulators can measure 1.4.1 Attention optical obstacles like rubberized fabric, to avoid inaccurate
+Owing to the forthcoming renovation, the specific products you the accuracy of the device copied calibration curve, but they Point out conditions or practices that may cause damage to the results.
+received may not be totally in accordance with the description of cannot be used to evaluate the device accuracy. device or other properties. ● Excessive ambient light may affect the measured results, such
+this User Manual. We would sincerely regret for that. ● When using the device, please keep it away from the ● Before using the device, make sure that it locates in normal as surgical light (especially xenon light sources), bilirubin
+Warnings equipment which can generate strong electric field or strong working state and operating environment. lamp, fluorescent lamp, infrared heater, and direct sunlight,
+may appear hypoxia, it is recommended to perform 6.1 Measurement E. The device need not to be calibrated during maintenance. Caution, consult Pulse rate
+Insert the micro end of the USB cable into the device, the other patient’s safety and monitoring performance. It is cannot be Light interference Under normal and ambient light
+Safety class Internally powered equipment,
+type BP applied part
+International protection IP22
+Working voltage DC 3.6V ~ 4.2V
+Working current ≤ 80 mA
+6.1 Pengukuran beberapa waktu. Hal ini dapat memperpanjang masa pakai konsultasikan (bpm) (safety class) BF applied part
+A. Masukkan jari ke dalam probe seperti yang ditunjukkan pada baterai. dengan dokumen PRbpm Perlindungan Internasional IP22
+
+--- 1.3 Penjelasan Simbol ---
+c ontain all the followi ng symbols.
+C. Software description device should be recharged every three months when it is 8. Symbols PR 30 bpm ~ 249 bpm
+Release version: V2.0 not used for some time. It can extend the battery life Symbols Meaning Symbols Meaning Optical sensor [see note 4]
+5. Operating following this guidance. Red light Wavelength: about 660 nm
+E. Fungsi siaga otomatis suara dapat dihentikan dengan menekan tombol sebentar, dan atau hampir 2. Silakan pasang Catatan: Perangkat Anda mungkin tidak berisi semua simbol berikut.
+Simbol Arti Simbol Arti
+Daya keluaran optik: <6,75 mW
+5. Pengoperasian harus diisi ulang setiap tiga bulan jika tidak digunakan selama Perhatian, Denyut nadi Tip kelas keselamatan Peralatan bertenaga internal, tipe
+
+--- 1.4 Singkatan ---
+[TIDAK ADA DATA DITEMUKAN]
+
+--- 2.0 Instalasi ---
+methods for transportation, installation, usage, operation, repair, may cause injury to the tester and operator or damage to the recommended to use the device during the process of having coloring agent (such as nail polish, coloring agent or color skin
+measuring abnormality, device damage and human injury. The the Pulse Oximeter. Operating Environment as improper installation or improper contact position for
+4. Installation that the device is charging when the indicator is light, the charging energy saving 1. Normal. Accuracy [see note 2] 70% ~ 99%: ±2%;
+maka dapat menyebabkan cedera pada penguji dan operator atau lain-lain. pemasangan yang tidak tepat atau posisi kontak yang tidak tepat
+pemasangan, penggunaan, pengoperasian, perbaikan, pemeliharaan Pulse Oximeter. Lingkungan Pengoperasian pengukuran, seperti cahaya bedah (terutama sumber cahaya
+
+--- 3.1 Antarmuka Pengguna ---
+PULSE OXIMETER (FOX-BABY) ● DO NOT strand the lanyard to avoid device drop and damage. Insert the finger when measuring, the device will directly display optimal and the waveform at this time is also the most
+User Manual The lanyard is made of insensitive material. Please do not use the SpO2 value measured, it has a higher accuracy and standard.
+Nomer File: SPA-BM/PROD-45 it if any person is allergic to lanyard. Do not wrap the lanyard repeatability. ● The device cannot be used during charging
+Revisi: 04 around neck to avoid an accident. 1.1 Features ● If the device or component is intended for single-use, then the
+Remind that it may cause serious consequences to tester, user or magnetic field. Using the device in an inappropriate ● In order to get a more accurate measurement, it should be etc. In order to prevent interface from ambient light, make
+environment. environment may cause interference to the surrounding radio used in a quiet and comfortable environment. sure to place the sensor properly and cover the sensor with
+● Explosive hazard - DO NOT use the device in environment with equipment or affect its working. ● When the device is carried from cold environment to warm or opaque material.
+inflammable gas such as anesthetic. ● When storing the device, keep it away from children, pets, humid environment, please do not use it immediately, wait ● Frequent movement (active or passive) of the subject or
+● DO NOT use the device while examining by MRI or CT, as the and insects to avoid affecting its performance. four hours at least is recommended. severe activity can affect the measured accuracy.
+induced current may cause burn. ● Do not place the device in places exposed to direct sunlight, ● If the device is splashed or coagulated by water, please stop ● The SpO2 probe should not be placed on a limb with the blood
+● Do not take the information displayed on the device as the high temperature, humidity, dust, cotton wool, or easy to operating pressure cuff, arterial ductus or intraluminal tube.
+sole basis for clinical diagnosis. The device is only used as an splash water, to avoid affecting its performance. ● DO NOT operate the device with sharp things. ● The measured value may be inaccurate during defibrillation
+auxiliary means in diagnosis. And it must be used in ● The measured accuracy will be affected by the interference of ● High temperature, high pressure, gas sterilizing, or immersion and in a short period after defibrillation, as it has not
+● The maintenance to the device non-detachable lithium simultaneously, danger may occur which is arisen from the disinfection. Please turn off the device before cleaning and ● The device is calibrated to display functional oxygen
+specified by manufacturer, dangers (such as over- ● CO poisoning will appear excessive estimation, so it is not ● The device is suitable for children. ● The equipment connected with the oximeter interface should
+temperature, fire, or explosion) may occur when replacing the recommended to use the device. ● The device may not be suitable for all users, if you can’t get a comply with the requirements of IEC 60601-1.
+● Please do not stare at the red and infrared light emitter (the adjustment, damages during surgery, and the injuries caused by interface should be less than 41OC which is measured by the contracting drug, the SpO2 waveform (PLETH) will
+infrared light is invisible) after turning on the device, including some medical checkup would also lead to the difficulty of oxygen temperature tester. decrease. In this case, the measurement will be more
+● The device contains silicone, PVC, TPU, TPE, and ABS appear as a consequence, such as vertigo, impotence, vomit etc. screen, please pull out your finger and reinsert it to measure B. The measurement will be influenced by intravascular
+materials, whose biocompatibility has been tested in Serious symptoms might bring danger to human’s life. Therefore, again. staining agents (such as indocyanine green or methylene
+accordance with the requirements in ISO 10993-1, and it has prompt information of patient’s SpO2 is of great help for the doctor ● Do not contort or drag the wire of the device. blue), skin pigmentation.
+passed the recommended biocompatibility test. The person to discover the potential danger, and is of great importance in the ● The plethysmography waveform is not normalized, as a signal C. The measured value may be normal seemingly for the
+who is allergic to silicone, PVC, TPU, TPE, or ABS cannot use clinical medical field. inadequacy indicator, when it is not smooth and stable, the tester who has anemia or dysfunctional hemoglobin (such
+the device. accuracy of the measured value may degrade. When it tends as carboxyhaemoglobin (COHb), methaemoglobin
+to be smooth and stable, the measured value read is the (MetHb), and sulfhaemoglobin (SuHb)), but the tester
+measurement result on the screen. 7. Troubleshooting 3. Signal
+Note: when inserting the finger, the light emitting from the Trouble Possible Reason Solution inadequacy
+sensor must be directly irradiated to the side of the indicator
+fingernail. 1. T
+e r is not
+1. Please insert the
+Serial Number Use-by date
+Figure 1 Operating principle Note: during measuring, do not shake the finger and keep inserted. finger properly Recycling USB
+quiet, not move. 2. The finger is and measure garbage WEEE
+Principle of the Oximeter is as follows: An experience formula of 6.2 Pulse Sound Setting shaking or the again. (2002/96/EC)
+data process is established taking use of Lambert Beer Law After turning the device on, the pulse sound is open. Long press the The values patient is 2. Let the patient The sound The pulse
+according to Spectrum Absorption Characteristics of Reductive button can close the pulse sound and the pulse sound indication cannot be moving. keep calm. prompt sound
+Hemoglobin (Hb) and Oxyhemoglobin (HbO2) in glow & near- icon disappears. Long press button again, the pulse sound is turned displayed 3. The device is 3. Please use the indication indication
+i O n x fr y a h r e e m d o z g o l n o e b s in . O In p s e p ra e t c i t o io n n p T ri e n c c h ip n l o e l o o g f y t h is e a d d e o v p ic t e e d is : i n P h a o c t c o o e r l d e a c n tr c i e c o 6. n 3 a n S d o p u u n l d se p s r o o u m n p d t i n se d t ic ti a n t g io n appears. n st o a r b m ly a . lly or n en o v t i u ro se n d m i e n n t d en ev v i i c ro e n in m n e o n r t m . al IP22 I P n r t o e t r e n c a t t io io n n al Fi O n u g t e r T n h o e t ins fi e n r g te e d r is
+A. SpO2 value display is beyond the normal measure range, the device would
+almost drained 2. Please install the Recyclable Manufacture
+B. PR value and bar graph display give prompt sound and the corresponding value glitter.
+The device away. battery again. date
+E F. .
+l d t
+i i o
+c a t
+i n o
+- w b
+a to tt e w r o y r i k n dication appears when
+t u t
+i a l
+S o o
+n n d d
+r r o o
+t d i o i
+a w p
+l e l
+s , r
+b e 2
+t o a r
+l r l
+i s 3. P
+l c o e
+c n a
+r e .
+a ct the
+H. Display direction can be changed automatically 6.4 Charging 1. The device Display range 0% ~ 99%
+4.1 Appearance is finished when the indicator is off. The display mode. 2. Please charge the 0% ~ 70%: unspecified.
+disappears 2. Low battery. battery.
+Figure 2 Appearance and Measurement Interface the device directly, and avoid liquid penetrating into the device. used for full 2. The device 2. Please contact the Accuracy under low Low perfusion 0.4%:
+USB interface: connect with USB cable 6.2 Maintenance time after works after-sales. perfusion [see note 3] SpO2: ±4%,
+A. Structure: main unit, USB cable, power adapter (optional). B. Please clean and disinfect the device before/ after using it even after abnormally. after sales. Pulse intensity Continuous bar graph display,
+B. Accessories: one USB cable, one power adapter according to the user manual (6.1) 10-hour the higher display indicates the
+(optional), one user manual, one lanyard. C. Please charge the battery in time when low battery charging stronger pulse.
+Display
+Display Size 1.25inch
+Appendix 1
+State Sound prompt Sound prompt
+condition delay signal generation
+delay
+Low voltage 1s 20ms
+sound prompt
+SpO2 sound 330ms 20ms
+prompt
+Pulse rate sound 330ms 20ms
+batas, baterai rendah 3. Kerusakan Rentang tampilan 0% ~ 99%
+perangkat Rentang terukur 0% ~ 99%
+4. Instalasi 1. Perangkat masuk 1. Normal. Akurasi [lihat catatan 2] 70% ~ 99%: ±2%;
+4.1 Penampilan 6.4 Pengisian daya ke mode hemat 2. Silakan isi daya 0% ~ 70%: tidak ditentukan.
+sedang mengisi daya saat indikator menyala, pengisian daya selesai saat Tampilan 2. Baterai lemah. 3. Silahkan hubungi PR
+Bentu
+a Indikasi alarm suara i ndikator mati. m tib e a n - g ti h b i a la . ng 3. P
+Gambar 2 Tampilan dan Antarmuk a Pengukuran d G sa i u r b e n u n a n d k a a ca n m i r a k l a k e t o a d h u a o l i a l s o m 75 p % c ro a p i u r a n a n n tu o . k l u m n e tu n k y e m ka e n p y e e n k u a t u k p ar p e e t r b a a n g g i k a a n t d , d al a a n m g u u n n a tu k k a n t d u i i n d g t a u u k n k a k w a d n a a p kt a u t 2. t P b e e e r r k i a s e i n r p j g a e k n t a i t u d h ak . 2. b S la i a l y a t a e h n r k a a a n i n . p h u u r b n u a n j g u i a l. A re k n u d ra ah si [l d ih i at b c a a w ta a t h a n p 3 e ] r fusi P Sp e O r P f R 2 u : : s ± i ± 4 r 2 e % b n , p d m ah a 0 t , a 4 u % ± : 2%, mana saja
+Antarmuka USB: sambungkan dengan kabel USB disinfeksi, keringkan secara alami atau bersihkan dengan kain bersih yang lama normal. yang lebih besar
+Tombol: Menyalakan unit, penjeda prompt suara dan lembut. Jangan semprotkan cairan apa pun ke perangkat secara setelah Gangguan ringan Dalam kondisi cahaya normal dan
+4 M .2 a suk K k o a n n e u k j s u i n k g a b m e i l k U ro S B ka bel USB ke perangkat, ujung lainnya ke l 6 a . n 2 g su P n e g m , d e a li n h a h r i a n a d n a ri penetrasi cairan ke dalam perangkat. p d B e a a y n te a g r . i a si i a n t idak Intensitas denyut nadi a T m m a e m b n p i e e i r n l u a t s n , , d ta e m g vi r a p a s i f l i i a k S n p y O a b 2 n a ≤ g t a 1 l n e % b g ih t t i e n r g u g s i
+komputer atau adaptor daya. A. Periksa unit utama dan semua aksesori secara berkala untuk dapat terisi menunjukkan pulsa yang lebih
+memastikan tidak ada kerusakan terlihat yang dapat penuh kuat.
+pengukuran di layar. korosif dan ventilasi yang baik. Suhu: -40°C ~ +60°C; Kelembaban ketidakcukupan Spesifikasi adaptor Tegangan keluaran: DC 5V
+Catatan: saat memasukkan jari, cahaya yang keluar dari sensor Relatif: ≤95%. sinyal Arus keluaran: 1000 mA
+harus langsung mengenai sisi kuku. Nomor seri Gunakan Dimensi dan Berat
+sebelum tanggal Dimensi 46(P) x 40(L) x 29(T) mm
+Berat Sekitar 35g (termasuk baterai
+lithium)
+Layar
+Ukuran Layar 1.25inch
+Lampiran 1
+Kalimat Penundaan prompt Penundaan prompt
+suara kondisi suara
+pembangkitan
+sinyal
+Prompt suara 1 detik 20ms
+tegangan rendah
+Prompt suara SpO2 330ms 20ms
+Prompt suara 330ms 20ms
+denyut nadi
+Protes suara 16ms 20ms
+kesalahan probe
+
+--- 3.2 Overview ---
+Release Date : 26 March 2025 ● The disposal of scrap device, its accessories and packaging A. Easy to use. repeated use of these parts will pose risks on the parameters
+The manual describes, in accordance with the device’s features and in the manual. Only the accessories appointed or family, hospital, oxygen bar, community healthcare, physical care the device components designated by our company.
+● Uncomfortable or painful feeling may appear if using the 1. Overview less than 30 seconds, the time for obtaining dynamic average unplug, otherwise the power will not be cut off in time when
+device ceaselessly, especially for the microcirculation The oxygen saturation is the percentage of HbO2 in the total Hb in values will increase, which is arisen from signal degradation, necessary, causes damage.
+disturbance users. It is not recommended that the sensor is the blood, so-called the O2 concentration in the blood, it is an low perfusion or other interference, it depends on the PR 1.4.2 Clinical Restriction
+used on the same finger for more than 2 hours. important physiological parameter for the respiratory and value. A. As the measure is taken on the basis of arteriole pulse,
+Button: power on, pause sound prompt A. Check the main unit and all accessories periodically to charge. abnormally. PR: ±2 bpm or ±2%, whichever
+4.2 Connection of USB cable make sure that there is no visible damage that may affect The battery is greater
+4.3 Structure, accessories, and software description at least. When there is obvious damage, stop using it. charged The device works Please contact the ≤1%
+Please check the device and accessories according to the appears. time. Upper and lower limit of measured values
+list to avoid that the device cannot work normally. D. Recharge the battery soon after over-discharge. The SpO2 0% ~ 99%
+4.3 Struktur, aksesoris, dan deskripsi perangkat lunak mempengaruhi keselamatan pasien dan kinerja pemantauan. bahkan Perangkat bekerja Silahkan hubungi Batas atas dan bawah nilai terukur
+B. Aksesoris: satu kabel USB, satu adaptor daya (opsional), satu Ketika ada kerusakan yang terlihat, berhenti menggunakannya. waktu SpO2 0% ~ 99%
+l e a p
+n k a
+g a n
+e a a r n
+k p i
+s p e
+a n e
+r g a
+e g n r
+u a g
+n n k
+a g a
+, k t
+a a t
+i t t d u
+a l k a n n d a y a a k p r s a d e t . s b o e ri k s e e r s ja u a s i e d ca a r f a ta n r o u r n m tu a k l. B
+. H m
+a y n
+d i i
+a k s n
+r d a u n
+e n s
+s .1 e
+i 8 .
+n . g
+ia n 10 P S L
+a e R
+h [l i
+c atatan 4] 3 P
+D. Isi ulang kembali baterai setelah over-discharge. Perangkat
+
+--- 3.3 Manajemen Pengguna ---
+Panduan pengguna oleh anak-anak. denyut nadi melalui jari. Produk ini cocok untuk keluarga, rumah sakit, terlalu panjang, dapat mempengaruhi hasil pengukuran, jadi harap
+Pemberitahuan Pengguna kerusakan pada perangkat. untuk sensor akan mempengaruhi pengukuran.
+Pengguna yang terhormat, terima kasih telah membeli Pulse Oximeter ● Periksa perangkat sebelum digunakan untuk memastikan tidak ada 1.3 Persyaratan lingkungan ● Cahaya antara tabung penerima fotolistrik dan tabung pemancar
+Ini adalah perangkat medis, yang dapat digunakan berulang kali. pengguna dan kinerja perangkat. Ketika ada kerusakan yang jelas, a) Suhu: -40°C~ +60°C optik bebas dari hambatan optik seperti kain karet, untuk
+Manual ini menjelaskan, sesuai dengan fitur dan persyaratan perangkat, harap ganti bagian yang rusak sebelum digunakan. b) Kelembaban relatif: ≤95% menghindari hasil yang tidak akurat.
+pengguna dan peralatan. Lihat bab masing-masing untuk detailnya. digunakan untuk memverifikasi apakah perangkat berfungsi b) Kelembaban Relatif: ≤75% sinar matahari langsung, dll. Untuk mencegah antarmuka dari
+Harap baca manual pengguna dengan hati-hati sebelum menggunakan normal, misalnya Simulator INDEX-2LFE (versi perangkat lunak: c) Tekanan atmosfer: 700 hPa ~ 1060 hPa cahaya sekitar, pastikan untuk menempatkan sensor dengan benar
+perangkat ini. Panduan pengguna yang menjelaskan prosedur operasi 3.00), silakan merujuk ke manual untuk langkah-langkah dan tutupi sensor dengan bahan buram.
+harus diikuti dengan ketat. Kegagalan untuk mengikuti panduan pengoperasian yang terperinci. 1.4 Tindakan pencegahan ● Gerakan yang sering (aktif atau pasif) dari subjek atau aktivitas
+pengguna dapat menyebabkan ketidaknormalan pengukuran, kerusakan ● Beberapa alat uji fungsional atau patient simulator dapat 1.4.1 Perhatian berat dapat mempengaruhi akurasi yang diukur.
+p ke e s r e a l n a g m ka a t t a d n a , n k c e ed an e d ra a . l a P n a , b r d ik a a n n T k I e D s A a K la b h e a r n t an ki g n g e u r n ja g j a a t w a a u b a a b ta n s o m rm a a sa li l t a a h s m te e ta n p g i u k t u id r a k k e a d k a u p r a a t t a d n i g k u u n rv a a k a k n a li u b n ra t s u i k y a m n e g n d g i e sa v l a in lu a d s a i r i k p e e a r k a u n r g a k t a a t n , T p u ad n a ju p kk e a ra n n k g o k n a d t i a s t i a a u ta p u r o k p e e gi r a ti t a la n i n y n a y n a g . dapat menyebabkan kerusakan ● P d r e o n b g e a n S p p O e 2 n e ti m da p k a t b a o n l e m h a d n i s te e m t p te a k t a k n an an p a d d a a ra a h l , a t d u g k e t r u a s k a y r a t n e g r i s a a t m au a
+pengguna terhadap petunjuk pengoperasian. Layanan garansi pabrik ● Saat menggunakan perangkat, jauhkan dari peralatan yang dapat dalam kondisi kerja dan lingkungan pengoperasian normal. ● Nilai yang diukur mungkin tidak akurat selama defibrilasi dan
+tidak mencakup kesalahan tersebut. menghasilkan medan listrik yang kuat atau medan magnet yang ● Untuk mendapatkan pengukuran yang lebih akurat, sebaiknya dalam waktu singkat setelah defibrilasi, karena tidak memiliki
+Karena renovasi yang akan datang, produk tertentu yang Anda terima kuat. Menggunakan perangkat di lingkungan yang tidak sesuai digunakan di lingkungan yang tenang dan nyaman. fungsi defibrilasi.
+mungkin tidak sepenuhnya sesuai dengan deskripsi Panduan Pengguna dapat menyebabkan gangguan pada peralatan radio di sekitarnya ● Saat perangkat dibawa dari lingkungan yang dingin ke lingkungan ● Perangkat telah dikalibrasi sebelum keluar pabrik.
+digunakan bersama dengan saran dokter, manifestasi dan gejala tindih. ● Perangkat mungkin tidak cocok untuk semua pengguna, jika Anda A. Karena pengukuran diambil berdasarkan denyut arteriol, aliran
+klinis. ● Keracunan CO akan muncul dengan perkiraan yang berlebihan, tidak mendapatkan hasil yang memuaskan, silakan berhenti darah substansial yang berdenyut dari subjek diperlukan.
+menghindari pencemaran terhadap lingkungan setempat. Dan 1.2 Indikasi Penggunaan berwarna, dll.), jadi jangan menggunakannya di tempat pengujian. Gambar 1 Prinsip pengoperasian
+Oksihemoglobin (HbO2) di zona dekat cahaya & inframerah. Prinsip 6.2 Pengaturan Suara Pulsa Penyebab Indikasi prompt Indikasi suara
+p F P y d d d 3 A B
+a o . u e e e i
+n l t F n n n l a s o u g g g g a y l n o a a i a b s T T
+K n n g p
+r t e
+a s r e
+e t m m
+i i p b r k i
+a a e e e p p
+e s s l m d i i
+i l l
+a t a a a a
+e a u n
+d n n
+e d n s
+o n p , a n n
+f p j e s p i i
+e r l l e s r
+a a a
+t p i a h
+o t i i u
+S P s i d n e
+R j i g s a k
+f e n O
+u g o
+a r d l s i e a a
+t a i . t k i u
+i n K
+d i n
+t f d s
+e u r
+i g k
+e o m a i a a r
+n a d n
+u g f s
+i f a o k i i a
+d k n k l r
+i a m a
+h a r
+n u T
+a : n d
+s T u s a k e m
+n n n n
+k g i
+y g o
+a g k n
+r k a l n
+o l u n g
+y p o k i d p
+a r u g o P n i a i p m
+e s n g I
+e n e m j e
+d r a s s o l
+n p o i i a u n l
+g e r e l d k u .
+k h u g a i
+s e r i i s a
+a l e O k d o n n a a
+k m s n & p s
+o b i a
+h d r
+P a t e i
+n e p t d m
+a r g e i
+e m p r o c k s e
+g p a p a
+r l h i m o
+e o lk
+a b k l
+e a a y t i
+n h n n
+i a f S d T m 6 e e . a 3 u t k p e n a a l c n t a u P a
+h m l l . e
+a . m n e m P m t p
+i g n e r r
+a o o u n
+m m t y a t k u u
+o a m
+p p r p
+m l d a
+t t a p
+k a s b s
+u a u n
+p n a
+a t l
+a i r
+l b a a r a a m
+a a g d
+r t i t p a a a , 5 u
+t s n y
+0 l s r
+a s g m u (
+a u k k b a
+a e a a r p e d
+s a t t r n
+u i , a k d
+p s k
+a a u
+a k S l
+. o r p
+n a o a
+m 1 2 i
+d u n p 2
+i l 0 t d s
+s k y
+b a u
+a a t
+p w e
+a m i
+r r a a b
+s h d ,
+e r 0 a
+n a . %
+m n g T
+u d e
+p a u
+k i k
+t k t
+u a s
+n a r s
+l m n a a
+r m e
+g t t
+a t u
+e a h
+m j l
+a n a u
+d b n a l
+i d o g )
+. i , l N d d s n s e t a i o i a t l c p r a a b a m a m i i r l t a . a p l i lk t a a id t n a a u k 1 2 3 4
+. . . .
+J d d J p P d l d m P
+i a a n e e i e a i i
+m g s r r a g s r r n
+y i i u n a a
+a g a t g e n u n n
+a s r e n d
+g g a u n n
+k l k k b t
+k g .
+k a b k
+a a e e k a
+n a e t t
+a t r n
+n a g n n t
+i r e a
+o i a r a r a l a n . e t k k a g h . u 1 2 3 4
+S j d B t S p l S l
+i a a e n i i i
+a e i l l l
+y r a t a a a
+g n r i a a r a h k k
+k d k n p u a a
+n u k e a a k n n
+a g t n n n n u e n k g g m g
+n r p a
+p a a u h
+a t a l a n u n a n u
+n s d s r g a b n i
+u b g n i e i k
+u o . . k e a n
+a n r k n
+n j m a g u a
+n i a r
+l l . . IP22 s P I B B a B k D
+n u e t e a a a
+m a l r t t t p e e
+l a a a r i r o a
+m a n s s s n t s a a a d b a f d
+n n n e u s a i
+r i n d s b o
+u g a a n
+h a u n
+a t n u r e
+a n n a g n Fi O n u g t e r p J d M t h B m J h T
+a a a a u i a u
+a m r u e n u n t
+g l j i s n a h g i d g i a - a a n a
+g k h a g s n n h a
+h a u a n i a
+t l k i d
+d p n p e a e t n t i c d g d a a a a i a s h n r n k , i i
+
+--- 3.4 Prosedur Pemantauan ---
+The user manual which describes the operating procedures should the damage parts before use. b) Relative humidity: ≤95% finger deeply enough into the probe when measuring.
+be followed strictly. Failure to follow the user manual may cause ● Functional testers cannot be used to assess the accuracy of c) Atmospheric pressure: 500 hPa ~ 1060 hPa ● The finger should be placed correctly (see attached figure 3),
+performance issues and any monitoring abnormality, human injury verify whether the device works normally, for example, b) Relative Humidity: ≤75% ● The light between the photoelectric receiving tube and the
+and device damage due to user’s negligence of the operation INDEX-2LFE Simulator (software version: 3.00), please refer to c) Atmospheric pressure: 700 hPa ~ 1060 hPa light-emitting tube of the device must past through the
+pemantauan, cedera, dan kerusakan perangkat karena kelalaian perangkat. ● Sebelum menggunakan perangkat, pastikan perangkat berada tabung intraluminal.
+
+--- 4.2 Pemeliharaan ---
+the maintenance staff, as it may be harmful to the eyes. supply in human body, and the corresponding symptoms would ● During measuring, when abnormal conditions appear on the sensitive to interference.
+i P n e i. r i K n a g m at i a m n ohon maaf untuk itu. ● a Sa ta a u t m m e e m ny p i e m n p g a a n ru p h e i r k a e n rj g a k n a y t a , . jauhkan dari jangkauan anak-anak, y m a e n n g g gun h a a k n a g n a n t ya, a t t u a n u g gu l s e e m tid b a a k b n , ya e h m ar p a a p t jam ja . n gan langsung ● P fu e n ra gs n i g o k n a a t l . dikalibrasi untuk menampilkan saturasi oksigen
+I p n e ● ●
+g n a g t g B d J k
+a e a b n
+N r n h a e a
+G a g h n
+, a y A w
+a a a n N t a a a
+g r l u g a e u
+u k s d s l
+o n i a y n i
+n a n a k g
+k s d n a k
+e a n u g u
+n k k
+n m u s p
+- g i e u
+e a d n d J r n A a s a
+i p N n h
+G t s t k
+e e A m a
+r r N t b i e
+u s a n
+s a k g
+y a a u e
+t r m n b
+m s a
+a u e k
+b e n p a m k g e n
+a k r e
+i r n i
+p i l a k
+u e s n k r t
+a a e a e
+n s d
+t g j e e
+a a k n s
+k d a i g a i . t a
+r . n
+i a M
+g l R i i
+g a p
+k t e
+a u n
+u n g
+g C u
+T j n i
+, , ● ● h t J l m A
+a a e e
+k n n u r w
+u p g g d r
+s e a a a a
+u n n n h s n g i
+l t g a
+e y e ,
+r a t p r
+u a n c
+h k i u g l p
+i k . h h r a d u a a n i t r u , a t p k i a a u n e g n r r g a , a g a r n i k , t g a i d k d k n a a e a n t l k d e d i m m p i e s e b t e n e m a r g m b a p a a n p r e n g u a n , g h t g a i y d a a o r e u n l b e a h g u h g i , t a k e i k r n i r n a t k e e p e r k r a n j f i a s e a n , n r e s y e a r i a n n j t a a . s a n u i r y p m a a e i a r r a t a t l y a i h a d t a n a a r n g k i ● ● ● J p J S p p
+i A u e e e
+N h a n r n
+e u G g g n
+o g p A
+t d u p e i
+N n a n e r
+m g a
+a r m
+g a n a
+i s e g , d n i n
+k a t i a
+g e n
+u t o k . b
+n a p a t n t e b
+u e a r r k a n
+c y s
+i a i t p
+i n r n e a
+a g g n r
+t a g p n i
+s , a e e g
+s t r s k
+a t a u
+a e u n a
+t r g i i
+l k t i t
+s e a i (
+d a 6 r t
+s a g . d 1 i k u
+e ) g
+m n a
+d u g s p
+i , n a i a
+a n t l i u n
+t b a k k a e u a i
+r n n p , d d
+. e e a
+h m s L a i t
+i n b a h r
+a f e j a e a
+p r t
+m k s
+h . p h i
+a a e d
+n n n e
+d t n i u
+d k g a
+a a a
+n n n n ● ● P h S m t t
+e i i e a d l e
+m a r r a n
+u a k k p g
+l a s , a a
+h n m t d t
+u a a t e
+b n e p y
+m u d a il
+n y i u e h
+t a g h n i
+d n k u d a a g a
+h n i k d
+i d a
+t a a p e
+e p d k e k r
+t a a h r
+a o s n p u
+t r y t
+b s t a o
+o e u d r r
+r a k n a p k e t g y a h u t a n u t d d u s a I e u s m E n n C s t e g m e d 6 d a p e u 0 i n a s n 6 d t g 0 a a u w a 1 h n n n - a t d 1 t a k s u i . t p r o k u m a k e s u b m a t i k , n l a a e p g n a d d g P s i a p i t u s i n e l i k s r a d e l d n u i c a k O t a y a i b d x a n u i a , , m t k y , s e a a j a i t d n k e a a a g r t
+sebagai satu-satunya dasar untuk diagnosis klinis. Perangkat ini ● Ketika beberapa produk digunakan pada pasien yang sama secara disinfeksi.
+hanya digunakan sebagai alat bantu dalam diagnosis. Alat harus bersamaan, bahaya dapat timbul dari arus bocor yang tumpang ● Perangkat ini cocok untuk anak-anak. 1.4.2 Pembatasan Klinis
+● Pemeliharaan baterai litium yang tidak dapat dilepas pada sehingga tidak disarankan untuk menggunakan alat tersebut. menggunakannya. Untuk subjek dengan denyut nadi lemah karena syok, suhu
+perangkat hanya dapat dilakukan oleh personel servis ● Perangkat ini tidak dimaksudkan untuk pengobatan. ● Rata-rata data dan pemrosesan sinyal mengalami keterlambatan lingkungan/tubuh rendah, perdarahan hebat, atau
+b b b
+t p P p g p U i a e
+e e a
+e e a d n n
+r r a t
+a a g u a k
+e u r
+s n n g k
+g g u a
+k k p a r
+i a a i
+e n i
+i a i
+a m t n
+a i g r a u k
+u r n n s
+k e a
+s n o a
+a i u
+k r m a e n n
+h n u t g
+, e i
+s u a
+u e l e g
+n a k r a l u
+t y n
+s a u a n
+m . s t
+m , a i y T a
+u t b
+a e i
+e d l a n m n
+t g u b y
+e k e
+e t i
+r l h m
+a r i a
+e k a
+d h i m i d
+e i d . a s
+r a p
+b i b
+a b a
+2 u a n
+g t j k
+m h p
+n u u
+n m c
+m g u
+p e n
+m e i g
+s e m y
+a t s
+a n i e k n
+k n g
+g m a k
+r n n
+u n e
+e m m
+a e n
+u a u
+b k i b s l
+a i o i k
+i i 1 S y f B m p i a a . s e e
+e i n t I n b o k u n g y e l h r y o e r a
+t e a g b d i s b
+s p i
+s a a s a
+e r b
+k p s
+e l u a
+e a i
+n g n t n i
+e t y i n
+n a p o
+g s k e a e n
+i n t
+p s u u
+a e e
+y n r
+n r a a u t
+t t n h u n i r
+g k a
+p t s n
+i e i b d s
+r e i a
+s S s O
+r t k e
+k e 2
+n O a
+t b i 2 d
+e a a s
+r n p e d l
+f a e u a
+m H d r l n
+a n e
+O s d
+p g i 2 n
+d r y n s p
+a a a a
+h r n s
+, i p
+a s h
+e t d
+a o m e
+y n s
+t r e e
+a u s l
+a p p u
+e i H e a
+r r k
+b i n
+e a a a
+n d i d n t p
+a u a a
+r l d p a a
+i b a a n m r
+e n i r
+a b d d m t d e a u a a r e r r b a p a a t u p e a h h h a r t . , ● ● ●
+d k d
+r P l S k S j a a e
+u u e e
+r i a
+a a d u A m
+n n a n n
+g h g a m y
+d a a p
+a t e
+k t d
+r n s
+m a i u
+m 4 n g u e
+m u a m k
+n u m C
+s i a y
+p a n u
+k a n ,
+d k g n
+a a e
+n d l s
+a i a i p
+k u k i
+r e a k p
+n m u a
+o b e a
+a o n a ,
+l d l S t e
+i n p
+e p i h u
+s r O t
+n g a a
+a t h l
+b u a n
+t n u o
+m a , n
+a u n a p
+g r l h g
+m u m g u d
+a r e
+a . u u
+n n r
+a i c
+l e l
+a u a
+m j g i a l
+i d P r b
+u n l
+i R i
+. a g
+a t y
+r a l
+p t e
+r u a
+B C. .
+p ( s
+P ( k N a c s
+u a u n e
+l r l l e n
+a f p i
+h t m g
+r i x
+a k t
+i m n u
+h a i
+n t a o
+a d e t g
+u e o m l
+o r a c
+u o b
+k a g i a n m
+a p e
+u l n n o
+r ( i
+o b d n
+m g u i i
+n p l
+u H o
+( n b
+e i )
+g O n
+i H n d
+e b i
+t h ) f a
+i a m p m
+n o u
+i p g l e
+e m a s a t
+l i h k
+a e o
+i n r
+a t z t n n
+e u a
+t y m j l
+l p m ( e
+s e n
+e g a
+w u e
+l p l o n
+b e b b g r
+l n i k u
+t n g
+i a i e
+) a i M , n
+l a p a t e
+t i t a g
+u H m p v
+j a b
+a i e
+s ) k d
+n , k
+e u d t
+n a a l
+a g s
+n i r a
+teliti di lokasi pengujian, jangan gunakan perangkat pada edema manusia, kerusakan selama operasi, dan cedera yang disebabkan oleh ● Jangan memutar atau menarik kabel perangkat. seperti hipoksia, disarankan untuk melakukan penilaian lebih
+atau jaringan lunak. beberapa pemeriksaan medis juga akan menyebabkan sulitnya suplai ● Bentuk gelombang plethysmography tidak dinormalisasi, sebagai lanjut sesuai dengan situasi dan gejala klinis.
+● Jangan menatap pemancar cahaya merah dan inframerah (cahaya oksigen ke dalam tubuh manusia, dan akibatnya akan muncul gejala- indikator ketidakcukupan sinyal, ketika sinyal tidak mulus dan D. Oksigen dalam nadi hanya memiliki arti referensi untuk
+inframerah tidak terlihat) setelah menyalakan perangkat, gejala seperti vertigo, impotensi, muntah dll. Gejala yang serius dapat stabil, keakuratan nilai yang diukur dapat menurun. Ketika sinyal anemia dan hipoksia toksik, karena beberapa pasien anemia
+termasuk staf pemeliharaan, karena dapat membahayakan mata. membahayakan nyawa manusia. Oleh karena itu, informasi yang cepat cenderung halus dan stabil, pembacaan nilai terukur adalah yang berat masih menunjukkan nilai pengukuran oksigen dalam
+● P ya e n ra g n b g i k o a k t o i m ni p m at e i n b g il a it n a d sn u y n a g b te a l h a a h n d s i i u li j k i o s n e , s u PV ai C d , T e P n U ga , n T P p E e , r d sy a a n r A at B a S n , t p e o n t t e a n n s g i b S a p h O ay 2 a , p d a a s n ie n sa n s g a a n t g p a e t n m tin e g m d b a a l n am tu b d id o a k n te g r m u e n d t is u . k menemukan ● o Pe p r t a im ng a k l a d t a t n i d b a e k n d tu a k p a g t e d lo ig m u b n a a n k g a n ju s g e a l a p m al a in p g e s n t g a i n s d ia a n r . d aya. E. n Ko ad n i t r y a a i n n g d i l k e a b s i i h : T b i a d i a k k . .
+dalam ISO 10993-1, dan telah lulus uji biokompatibilitas yang Masukkan jari saat mengukur, perangkat akan langsung menampilkan ● Jika perangkat atau komponen ditujukan untuk sekali pakai, maka
+d TP ir E e , k a o t m au e n A d B a S s i t k id a a n k . O da ra p n a g t m ya e n n g g g a u le n r a g k i a t n e r p h e a r d a a n p g k s a il t i . k on, PVC, TPU, n b i e la ru i la S n p g O y 2 a y n a g n l g e b d ih iu t k in u g r g , i. p erangkat memiliki akurasi dan pemakaian p p e ar n a g m gu e n te a r a n te k b n e i r s u p la e n ra g l a b t a a g n i a y n a n i g n i d a ik k e a t n a h m ui e o n l i e m h b p u a lk b a r n ik a r n is . i ko pada 2. Prinsip
+● JANGAN menggantung lanyard untuk menghindari perangkat jatuh
+● Jika perlu, perusahaan kami dapat memberikan beberapa
+dan rusak. Lanyard terbuat dari bahan yang tidak sensitif. Tolong 1.1 Fitur informasi (seperti diagram sirkuit, daftar komponen, ilustrasi, dll.),
+jangan gunakan jika ada orang yang alergi terhadap lanyard. A. Mudah digunakan. sehingga personel teknis yang memenuhi syarat yang ditunjuk oleh
+Jangan melilitkan lanyard di leher untuk menghindari kecelakaan. B. Kecil dalam volume, ringan, nyaman untuk dibawa. perusahaan kami dapat memperbaiki komponen perangkat.
+● Pembuangan peralatan bekas, aksesori dan kemasannya harus C. Konsumsi daya rendah. ● Hasil yang diukur akan dipengaruhi oleh zat pewarna eksternal
+mengikuti undang-undang dan peraturan setempat, untuk
+Gambar 3. E. Perangkat tidak perlu dikalibrasi selama pemeliharaan. yang pendamping Tegangan kerja DC 3.6V ~ 4.2V
+Tipe BP applied Saturasi oksigen Arus kerja ≤ 80 mA
+
+--- 4.3 Perawatan ---
+Please read the user manual very carefully before using this device. performance. When there is obvious damage, please replace a) Temperature: -40°C ~ +60°C please insert the thicker fingers such as thumb or middle
+● For some special users who need a more careful inspection on circulatory system. A number of diseases relating to respiratory ● The device has 3 years’ service life, date of manufacture: see substantial pulsating blood flow of subject is required. For
+the test site, please don’t place the device on the edema or system may cause the decrease of SpO2 in the blood, furthermore, the label a subject with weak pulse due to shock, low ambient/
+tender tissue. some other causes such as the malfunction of human body’s self- ● The maximum temperature at the SpO2 probe – tissue body temperature, major bleeding, or use of vascular
+further assessment according the clinical situations and A. Insert the finger into the probe as shown in Figure 3. 6.3 Transport and Storage accompanying PRbpm (bpm)
+symptoms. A. The packed device can be transported by ordinary documents
+D. Pulse oxygen only has a reference meaning for anemia conveyance or according to transport contract. During Type BF applied Pulse oxygen
+and toxic hypoxia, as some severe anemia patients still transportation, avoid strong shock, vibration and splashing part %SpO2 saturation (%)
+6. Maintain, Transport, and Storage Resolution 1%
+File Nomer: SPA-BM/PROD-45 ● Perangkat tidak dapat digunakan dengan peralatan yang tidak bar oksigen, perawatan kesehatan masyarakat, perawatan fisik dalam masukkan jari yang lebih tebal seperti ibu jari atau jari tengah
+Revisi: 04 ditentukan dalam manual. Hanya aksesori yang ditunjuk atau olahraga (Dapat digunakan sebelum atau sesudah berolahraga dan tidak cukup dalam ke probe saat mengukur.
+Tanggal Terbit : 26 Maret 2025 direkomendasikan oleh produsen yang dapat digunakan, jika tidak disarankan untuk menggunakan perangkat selama proses olahraga) dan ● Jari harus ditempatkan dengan benar (lihat gambar 3), karena
+(selanjutnya disebut perangkat). kerusakan yang terlihat yang dapat mempengaruhi keselamatan Lingkungan Penyimpanan cahaya perangkat harus melewati arteriol subjek. Pastikan jalur
+dan penyimpanan, dll., serta prosedur keselamatan untuk melindungi ● Beberapa alat uji fungsional atau patient simulator dapat a) Suhu: +10°C~ +40°C xenon), lampu bilirubin, lampu neon, pemanas inframerah, dan
+(seperti cat kuku, zat pewarna atau produk perawatan kulit
+Nilai denyu T t o n m ad b i o l G n N a r il a d a f i i i k S p b O at 2 a ng 6 6 . . 1 P em P e e l m ih b a e ra rs a i n h , a T n r d a a n n sp D o e rt s a in s f i, e d k a si n Penyimpanan normal. Akurasi ± le 2 b b ih p m be a sa ta r u ±2%, mana saja yang
+6.3 Transportasi dan Penyimpanan part %SpO2 denyut nadi (%) Sumber Daya listrik Baterai lithium yang dapat diisi
+A. Perangkat yang dikemas dapat diangkut dengan alat angkut biasa 1. Klip jari jatuh Indikasi daya ulang (3.7 V) (Kabel merah pada
+atau sesuai dengan kontrak pengangkutan. Selama transportasi, (tidak ada jari rendah baterai menunjukkan anoda, kabel
+hindari benturan yang kuat, getaran dan percikan dari hujan atau yang hitam pada baterai menunjukkan
+salju, dan tidak dapat diangkut dicampur dengan bahan beracun, dimasukkan) katoda).
+
+--- 4.4 Pembersihan ---
+conjunction with doctor’s advice, clinical manifestations and electrosurgical equipment. disinfection for the device is not permitted. Refer to user defibrillation function.
+symptoms. ● When several products are used on the same patient manual in the relative chapter (6.1) for cleaning and ● The device has been calibrated before leaving factory.
+battery can only be performed by qualified service personnel overlap of leakage current. disinfection. saturation.
+6.1 Cleaning and Disinfection PR
+works after-sales.
+Pulse s P P o u u u l l n s s e e d r w in a a t d e v ic e v a f a o t l i r u o m e n A Sp la O rm 2 v a so lu u e n d indication T b h e e im de m v e ic r e se m d u in st t o b e liq t u u i r d n . e d off before cleaning, and it should not abnormally. D M is e p a l s a u y r e ra d n r g a e n ge 3 3 0 0 b b p p m m ~ ~ 2 2 4 4 9 9 b b p p m m
+Pulse bar graph Use 75% alcohol to wipe the device enclosure, and use liquid soap 1. The battery is Accuracy ±2bpm or ±2%, whichever is
+Button or isopropanol to wipe the watchband for disinfection, nature dry The device not charged 1. Please charge the greater
+or clean it with clean and soft cloth. Do not spray any liquid on cannot be fully. battery. Resolution 1 bpm
+
+--- 5.0 Pemecahan Masalah ---
+B. Wait a few seconds, the device directly shows Relative Humidity: ≤95%. - - - 2. Probe error
+Probe error 16ms 20ms
+sound prompt
+Prinsip Oximeter adalah sebagai berikut: Rumus teruji proses data dibuat Catatan: selama pengukuran, jangan goyangkan jari dan diam, 7. Pemecahan masalah Sampah daur ulang USB
+dengan menggunakan Hukum Lambert Beer sesuai dengan Karakteristik jangan bergerak. WEEE
+Penyerapan Spektrum dari Hemoglobin Reduktif (Hb) dan
+Masalah
+Kemungkinan
+Solusi
+(2002/96/EC)
+Adaptor daya dapat dipilih untuk mengisi daya perangkat. Perangkat energi. baterai. Resolusi 1%
+Perangkat harus dimatikan sebelum dibersihkan, dan tidak boleh Perangkat 1. Baterai tidak 1. Silakan isi daya Resolusi 1 bpm
+Gambar 3 Ilustrasi penempatan jari berbahaya, korosif. - - - 2. Probe error Masa pakai baterai Pengisian dan pengosongan: tidak
+B. Tunggu beberapa detik, perangkat langsung menampilkan hasil B. Perangkat yang dikemas harus disimpan di ruangan tanpa gas 3. Indikator kurang dari 500 kali.
+
+--- 6.1 Spesifikasi ---
+should follow the local laws and regulations, to avoid B. Small in volume, light in weight, convenient to carry. and technical parameters of the equipment known to the
+User Notice polluting to the local environment. And the packaging C. Low power consumption. manufacturer.
+Dear users, thank you very much for purchasing the Pulse Oximeter materials must be placed in the region where the children are 1.2 Indication for Use ● If necessary, our company can provide some information
+(herein after referred to as device). out of reaching. The Pulse Oximeter can be used in measuring the pulse oxygen (such as circuit diagrams, component lists, illustrations, etc.),
+It is a medical device, which can be used repeatedly. ● The device cannot be used with the equipment not specified saturation and pulse rate through finger. The product is fit for so that the qualified technical personnel of the user can repair
+requirements, main structure, functions, specifications, correct recommended by the manufacturer can be used, otherwise it in sports (It can be used before or after doing sports and it is not ● The measured results will be influenced by the external
+battery by the personnel not fully trained. Users are not ● This device is not intended for treatment. satisfactory result, please stop using it. ● Please select medical power adapter to charge it, when
+permitted to maintain or refit the device by themselves or ● The intended operator of the device may be a patient. ● Data averaging and signal processing have a delay in the connecting the special adapter with the socket, make sure
+replacement of the battery. ● Avoid maintaining the device during using. upgrade of SpO2 data values. When the data update period is there is no shelter near the socket and it is easy to plug and
+show better pulse oxygen measured value. with rain or snow, and it cannot be transported mixed with 1. The finger clip Low-power
+E. Contraindication: No. toxic, harmful, corrosive materials. falls off (no indication
+2. Principle B. The packed device should be stored in room with no corrosive finger
+Figure 3 Sketch map for finger placement gases and good ventilation. Temperature: -40°C~+60°C; inserted)
+G. Charging function If low-power sound prompt occurs, please charge the battery. malfunction SpO2 [see note 1]
+I. PR sound indication: sound prompt for over-limit, low battery Power adapter can be selected to charge for the device. It indicates enters into the Measured range 0% ~ 99%
+end into computer or power adapter. recommended that the device should be inspected weekly fully conditions, the SpO2 deviation
+Optical output power: <6.65 mW
+Infrared light Wavelength: about 905 nm
+Optical output power: <6.75 mW
+Power supply A rechargeable lithium battery
+(3.7 V) (The red wire on the
+battery denotes anode, the
+black wire on the battery
+denotes cathode).
+Battery life Charge and discharge: no less
+than 500 times.
+Adapter specification Output voltage: DC 5V
+Output current: 1000 mA
+Dimension and Weight
+Dimension 46(L) x 40(W) x 29(H) mm
+Weight About 35 g (including a lithium
+battery)
+struktur utama, fungsi, spesifikasi, metode transportasi yang benar, ● Alat uji fungsional tidak dapat digunakan untuk menilai keakuratan c) Tekanan atmosfer: 500 hPa ~ 1060 hPa ● Cahaya sekitar yang berlebihan dapat mempengaruhi hasil
+F G H . . . M F A u r o a n d h g e s t i a t p m a e m p n p i g la i i l s a n ia n d n d a d a p a p a y a t a t d d iu iu b b ah ah s ecara otomatis i F k u o n n g s p i r p o r m o p m t p s t u s a u r a a r a m a e k n a g n h d ila ip n e g r , b t a e r t u a i p d i a n la il m ain 3 y 0 a d m e a ti s k i . h berkilau. P ti e d r a a k n gk d a a t pat 2. h B d a i a p b t a e is s r . a a n i t g i d d a e k n gan 3. b S p i a u la t s e k a r a t a n l i a h l y a u a g n b i. a u n n gi 9 . Spesifikasi
+I. Indikasi suara PR: suara prompt untuk parameter yang melebihi Jika muncul prompt suara berdaya rendah, harap isi daya baterai. dinyalakan. benar. setempat. SpO2 [lihat catatan 1]
+
+--- 7.1 Garansi ---
+layanan purna jual. R
+A. Struktur: unit utama, kabel USB, adaptor daya (opsional). Disarankan memeriksa perangkat setidaknya setiap minggu. setelah tidak normal. layanan purna jual.
+
+--- 7.2 Informasi Kontak ---
+with Capacity Pulse Scanning & Recording Technology, so that two a. Sound prompt includes the sound prompt of measure required by the 4. Please contact the Temperature Fragile, handle
+b h e u a m m a s n n o a f il d ti i p ff e th re ro n u t g w h a p v e e r l s e p n e g c t t h iv e o f c la li m gh p t s f in c g a e n r -t b y e p e f o s c e u n s s e o d r. T o h n e to n d 90 at % a , ’ s o r g t o h in e g p u b l e s y e o r n a d te t i h s e n o li t m b i e t t s w ( e w e h n e 5 n 0 t b h p e m S p a O nd 2 1 is 2 0 b e b l p o m w , 4. m Th a e n d u e a v l. i ce after sales. l A im tm it o a s t p io h n e ric w Th it is h w ca a r y e u p
+m i t n h f e r o o a r u s m u g r h a e t t d io r e n s a ig t a m n c a q e l u n c i t r a e in n d e b l t e e h c r t o o r b u o t g n a h i i c n c e w i d r h c i u b ch i y t s a w a n i p l d l h o m b t e i o c s r s e o h n p o s r w i o t n i c v e e s o s n e o l r e s . m cr e e n e t n , t p h o e w e so r. u nd prompt occurs), the sound prompts of low- w ab o n r o ks rm ally. p lim re i s t s a u ti r o e n
+3. Functions b. In the open state of sound prompt, when the measure data 1. T
+a rge H
+suddenly. 3. The device 3. Please contact the
+

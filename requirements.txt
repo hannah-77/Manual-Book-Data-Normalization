@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+paddleocr
+paddlepaddle
+opencv-python-headless
+pillow
+python-dotenv
+openai

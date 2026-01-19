@@ -1,0 +1,22 @@
+{
+    "1.1 Tujuan Produk/Definisi": "",
+    "1.2 Panduan Keamanan": "",
+    "1.3 Penjelasan Simbol": "",
+    "1.4 Singkatan": "",
+    "2.0 Instalasi": "",
+    "3.1 Antarmuka Pengguna": "",
+    "3.2 Overview": "",
+    "3.3 Manajemen Pasien": "",
+    "3.4 Prosedur Pemantauan": "",
+    "3.5 Perhitungan Medis": "",
+    "3.6 Manajemen Rekaman & Tinjauan Hasil": "",
+    "4.1 Inspeksi Umum": "5. Performance Inspection 5.1 Whole Equipment Test The lighting of indicator light means that the compressor is working. The value of pressure gauge increases slowly from 0 and maintain between 0.3~0.4MPa means that the compression pump is working well. The output pressure can be adjusted to match different oxygen source. Please maintain the compressor in time when the output pressure is less than 0.2MPa. 5.2 Cooling System and Refrigeration System Test The cooling fan and refrigeration chip should work properly when the refrigeration system is operating. The cooling system discharges a strong heat gas flow while the compressor is working. The discharging means the cooling fan is working well. A very simple test method is putting a hand nearby the cooling gas outlet to feel if there is a strong heat gas flow.  Turn off the compressor if any fault is found and do not use it again until it’s  Fault of the cooling fan may cause cooling failure. Under this condition, there may be \"icing\" phenomenon after long hours operating. 5.3 Electric Power Test Turn on power switch and check the indicator light and pressure gauge. Lighting of indicator light and stably working pressure mean that power supply of the compressor has been switched on. 5.4 Automatic Exhaust Test The value of pressure gauge rises up at the beginning then fall down till it is maintained stably within the operating range. The changing of pressure means that the overflow valve is working properly. 6. Troubleshooting Problem Reasonable cause Solve measure Output pressure is 1． Improper adjustment 1. Adjust relevant out of the of decompress pressures 2. Test/replace the operating range. system or operating pressure gauge. 3. Test/replace the 2． The pressure gauge gas transport pipe. is damaged, or its error is large. 3． The gas transport pipe is broken or loosen off. Too much moisture 1. Drainage system 1. Replace or adjust in output failure. drainage system. 2. Improper 2. Check and adjust compressed air. adjustment. the pressure. 3. Cooling system 3. Check refrigeration failure. system. Pressure gauge 1. Power interruption / 1. Check and indicates no protective tube reconnect the fusing. power supply / 2. Compressor pump replace a fuse with doesn’t work. same specification. 3. Gas transport pipe is 2. Check the damaged or broken. compressor pump 4. Over-heat protection and its power of compression. supply. 3. Test the connecting pipe. 4. Check the temperature of compression pump and working status of cooling fan. Pressure gauge 1. Decompress system 1. Clean decompress indicates pressure is blocked up. valve. 2. Output circuit is 2. Check circuit but there is no blocked up. connector / output output gas. Unable to start the 1. Power supply outage 1. Check the power compress pump up. or low voltage. supply. 2. Compression pump 2. Check the power has no power supply. supply. 3. Compression pump 3. Replace fault. compression 4. Fuse/switch fault. pump. 4. Check fuse / 7. Maitenance 7.1 Clean the Air Intake Filter It is suggested that the black air intake filter should be cleaned once a week. Wash the filter and it should be dry when be put back in place. 7.2 Replace the Pump Filter The white pump filter should be replaced every 3000 hours. The change frequency depends on not only the service time but also the environmental cleanliness. 7.3 Stabilizing the Compressor Before Shipping Before shipment, the plastic plugs (A) must be removed and can be placed in the holes (B). The stabilizing screws on the shelf (C) must be fixed again to prevent 7.4 Shut-down Disconnect the power supply if the equipment is not going to be used for a long MEDICAL AIR COMPRESSOR Manual Book ",
+    "4.2 Pemeliharaan": "",
+    "4.3 Perawatan": "",
+    "4.4 Pembersihan": "",
+    "5.0 Pemecahan Masalah": "",
+    "6.1 Spesifikasi": "",
+    "6.2 Kepatuhan Standar": "",
+    "7.1 Garansi": "",
+    "7.2 Informasi Kontak": ""
+}

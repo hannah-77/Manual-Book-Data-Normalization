@@ -1,0 +1,22 @@
+{
+    "1.1 Tujuan Produk/Definisi": "",
+    "1.2 Panduan Keamanan": "",
+    "1.3 Penjelasan Simbol": "the following symbol: NOTE 1 At 80 MHz and 800 MHz, the higher frequency range applies. NOTE 2 These guidelines may not apply in all situations. Electromagnetic propagation is affected by absorption and a. Field strengths from fixed transmitters, such as base stations for radio (cellular/cordless) telephones and land mobile radios, amateur radio, AM and FM radio broadcast and TV broadcast cannot be predicted theoretically with accuracy. To assess the electromagnetic environment due to fixed RF transmitters, an electromagnetic site survey should be considered. If the measured field strength in the location in which the BPM002 is used exceeds the applicable RF compliance level above, the BPM002 should be observed to verify normal operation. If abnormal performance is observed, additional measures may be necessary, such as re-orienting or relocating the BPM002. b. Over the frequency range 150 kHz to 80 MHz, field strengths should be less than 3 V/m. Recommended separation distances between portable and mobile RF communications equipment and the BPM002 . The BPM002 is intended for use in an electromagnetic environment in which radiated RF disturbances are controlled. The customer or the user of the BPM002 can help prevent electromagnetic interference by maintaining a minimum distance between portable and mobile RF communications equipment (transmitters) and the BPM002 as recommended below, according to the maximum output power of the communications equipment. Rated maximum Separation distance according to frequency of transmitter output power of (m) transmitter 150 KHz to 80 80 MHz to 800 MHz 800 MHz to 2.5 GHz 0.01 0.12 0.12 0.23 0.1 0.38 0.38 0.73 1 1.2 1.2 2.3 10 3.8 3.8 7.3 100 12 12 23 For transmitters rated at a maximum output power not listed above, the recommended separation distance d in metres (m) can be estimated using the equation applicable to the frequency of the transmitter, where P is the maximum output power rating of the transmitter in watts (W) according to the transmitter manufacturer. NOTE 1 At 80 MHz and 800 MHz, the separation distance for the higher frequency range NOTE 2 These guidelines may not apply in all situations. Electromagnetic propagation is affected by absorption and reflection from structures, objects and people. EXPLANATION OF SAFETY SIGN AND SYMBOLS Means type BF appied part Operation Instructions Symbol for “READ THE MANUAL BOOK” Symbol for “MANUFACTURER” Symbol for “COMPLIES WITH MDD 93/42/ECC REQUIREMENTS” DISPOSAL: Do not dispose this product as unsorted municipal waste. Collection such waste separately for special treatment is necessary. IP22 the first number 2: Protected against access to hazardous part with a finger and the jointed test finger of 12mm Ø, 80mm length, shall have adequate clearance from hazardous parts. And protected against solid foreign objects of 12,5mm Ø and greater. The second number 2: Protected against vertically falling water drops when enclosure tilted up to 150. Vertically falling drops shall have no harmful effects when the enclosure is tilted at any angle up to 15” on either side of vertical. BLOOD PRESSURE MONITOR MANUAL BOOK ",
+    "1.4 Singkatan": "",
+    "2.0 Instalasi": "",
+    "3.1 Antarmuka Pengguna": "",
+    "3.2 Overview": "",
+    "3.3 Manajemen Pasien": "",
+    "3.4 Prosedur Pemantauan": "",
+    "3.5 Perhitungan Medis": "",
+    "3.6 Manajemen Rekaman & Tinjauan Hasil": "",
+    "4.1 Inspeksi Umum": "",
+    "4.2 Pemeliharaan": "",
+    "4.3 Perawatan": "",
+    "4.4 Pembersihan": "",
+    "5.0 Pemecahan Masalah": "",
+    "6.1 Spesifikasi": "",
+    "6.2 Kepatuhan Standar": "",
+    "7.1 Garansi": "",
+    "7.2 Informasi Kontak": ""
+}

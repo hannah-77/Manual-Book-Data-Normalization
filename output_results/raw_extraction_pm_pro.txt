@@ -1,0 +1,237 @@
+Buku Manual PM PRO-3
+
+Spesifikasi produk
+
+A Spesifikasi Produk
+
+CATATAN:
+
+Kinerja peralatan dengan yx tanda ditentukan sebagai kinerja penting.
+
+A.1 Klasifikasi
+
+Anti-electroshock type
+
+Peralatan Kelas I dan peralatan bertenaga internal
+
+Anti-electroshock degree
+
+ECG (RESP), TEMP, IBP, C.O., Quick Temp
+SpO2, NIBP, CO2, AG BF
+IPX1
+
+Ingress Protection
+
+Disinfection/sterilization method
+
+Working system
+
+Lihat Bab Perawatan dan Pembersih t a.
+Peralatan operasi kontinyu
+
+Compliant with Standards
+
+IEC 60601-1: 2005+A1 :2012; TEC 60601-1-2: 2007;
+EN 60601-1: 2006+A :E -1-2: 2007,
+IEC 60601-2-49:
+
+A.2 Spesifikasi Fisik
+A.2.1 Ukuran dan Berat
+
+A.
+
+Produk Ukuran Berat (standar
+konfigurasi, tanpa
+baterai)
+
+PM PRO-3 x 320 mm (T) x 175 mm (L) <7kg
+
+A.2.2 Konfiggasi ng
+Produk Konfigurasi standar Konfigurasi Opsional
+“Bes, RESP, TEMP, SpO» @ SpO2 (Nellcor), NIBP (Omron),
+(Elitech), NIBP (Elitech) IBP, C.O., CO? (Elitech), CO2
+MPR MEWS, antarmuka RJ45, (Respironics), AG (Masimo)
+antarmuka USB, antarmuka @ Perekam, layar sentuh, Wi-Fi
+VGA
+
+A.2.3 Spesifikasi Lingkungan
+
+Monitor mungkin tidak memenuhi spesifikasi kinerja yang diberikan di sini jika disimpan atau
+digunakan di luar rentang temperatur dan kelembapan yang ditentukan.
+
+Ketika monitor dan produk terkait memiliki spesifikasi lingkungan yang berbeda, efektif
+
+-174 -
+
+Buku Manual PM PRO-3 Spesifikasi produk
+
+kisaran untuk produk gabungan adalah kisaran yang umum untuk spesifikasi semua produk.
+
+Temperatur
+
+Kerja 0 °C hingga 40 °C (32 °F ~104 °F )
+
+Transportasi dan Penyimpanan | -20 °C hingga 55 °C (-4 °F - 131 °F )
+
+Kelembaban
+
+Kerja 15% RH - 95% RH (tanpa kondensasi)
+
+Transportasi dan Penyimpanan | 15% RH - 95% RH (tanpa kondensasi)
+
+Ketinggian
+Kerja 86 kPa - 106 kPa
+Transportasi dan Penyimpanan | 70 kPa - 106 kPa
+Sumber Daya listrik 100 V-240 V~, 50 Hz/60 Hz
+Arus = 1,4 A-0,7 A; Sekering: T3. 50 VP
+A.2.4 Tampilan Xx
+Produk Menampilkan Pesan
+
+PM PRO-3 Tampilan layar: TFT warna 1 i, la Ve 11 waveform
+sentuh
+
+Satu LED daya
+Resolusi: 1024 x Dua alarm LED
+Satu biaya LED
+A.2.5 Spesifik ate
+Waktu Operasi P -3 2500 mAh 23,5 jam
+5000 mAh 27 jam
+Kon Pada 25 °C, dengan (a) baterai/baterai baru yang terisi penuh, pengukuran
+
+SpO2 kontinyu dan mode pengukuran otomatis NIBP pada interval 15
+menit, modul ECG/TEMP terhubung, perekaman pada interval 10 menit,
+kecerahan disetel ke “1”
+
+Mengisi Waktu PM PRO-3 2500 mAh S3,5 jam (daya 100%)
+2500 mAh $3,2 jam (daya 90%)
+5000 mAh <6 jam (daya 100%)
+5000 mAh s5,4 jam (daya 90%)
+Kondisi Monitor hidup atau dalam mode standby.
+
+-175 -
+Buku Manual PM PRO-3
+
+Spesifikasi produk
+
+A.2.6 Perekam
+
+Rekam Lebar 48 mm
+Kecepatan Kertas 12,5 mm/dtk, 25 mm/dtk, 50 mm/dtk
+Jejak 3
+
+Jenis rekaman
+
+Perekaman real-time kontinyu
+Perekaman real-time 8 detik
+Perekaman grafik tren
+Rekaman tabel tren
+
+Rekaman tinjauan NIBP
+Rekaman tinjauan aritmia
+
+Rekaman tinjauan alarm
+
+Rekaman hasil kalkulasi titrasi t
+
+an)pengukuran C.O.
+
+man waveform freeze
+
+A.2.7 Manaje
+
+Tinjauan Data
+
+dat
+
+Data A
+
+1 jam, resolusi: 1 detik
+
+120 jam, resolusi: 1 menit
+
+Kejadiai
+
+Hingga 200 set
+
+Pengukuran NIBP
+
+1200 set
+
+Peristiwa Aritmia
+
+Hingga 200 set
+
+Hasil Analisis 12-lead
+
+Hingga 50 set
+
+Lihat Bab 19 Tinjauan untuk informasi lebih lanjut tentang tinjauan data.
+
+-176 -
+
+Buku Manual PM PRO-3
+
+Spesifikasi produk
+
+Penyimpanan data
+
+Satu bagian data pasien maksimal berisi informasi berikut:
+
+Informasi pasien
+
+MRN, nama, tanggal lahir, tanggal masuk, jenis kelamin, jenis,
+tinggi badan, berat badan, golongan darah, pace, dokter, nomor
+tempat tidur, departemen
+
+Grafik tren dan tabel tren
+
+240 jam, resolusi: 1 menit
+
+Tinjauan pengukuran NIBP 1200 set
+Tinjauan alarm 200 set
+Kejadian aritmia 200 set
+Tinjauan analisis 12-lead 50 set
+Full disclosure waveforms 48 jam
+
+Kapasitas penyimpanan berikut untuk ruang tambahan 1G adalah wi
+
+k referensi:
+
+Data parameter kontinyu
+
+Data NIBP
+
+Kejadian alarm fisiologis
+
+Kejadian aritmia
+
+Setidaknya 4500 set
+
+Full disclosure waveforms
+
+720 jam, resolusi: 1 menit
+Setidaknya 68000 set
+Setidaknya 4500 QD
+
+720 jam
+
+Lihat Bagian 22.4 Menyimpan Data,d
+tentang menyimpan data di media
+
+i Perangkat Renyimpanan untuk informasi lebih lanjut
+
+pa
+
+A.3 Wifi
+IEEE 802.11b/g/n
+Pita Frekuensi 2.4 GHz ISM band
+
+Modulasi OFDM with BPSK, QPSK, 16-QAM, and 64-QAM
+802.11b with CCK and DSSS
+a si (£2 dBm) 17 dBm for 802.11b DSSS
+
+17 dBm for 802.11b CCK
+15 dBm for 802.11 g/n OFDM
+
+-177-
+

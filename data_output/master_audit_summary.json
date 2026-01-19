@@ -1,0 +1,605 @@
+{
+    "1.1 Tujuan Produk/Definisi": {
+        "manual_abpm50_en.pdf": [
+            "described: (Hal. 3)",
+            "■ The intended operator of this product may be the patient. (Hal. 3)",
+            "standard of this product. (Hal. 3)",
+            "maintain the product. (Hal. 10)",
+            "should be described. (Hal. 90)"
+        ],
+        "manual_abpm50_id.pdf": [
+            "sesuai dengan perusahaan standar dari produk ini. (Hal. 4)",
+            "penggunaan produk ini. (Hal. 13)",
+            "digunakan sesuai dengan pedoman ini. (Hal. 98)"
+        ],
+        "manual_aeolus_en.pdf": [
+            "(W) menurut produsen pemancar dan (Hal. 1)",
+            "Lampu pada panel depan didefinisikan sebagai berikut : (Hal. 6)"
+        ],
+        "manual_antropometri_kit_id.pdf": [
+            "Product Name : Antropometri (Hal. 1)"
+        ],
+        "manual_antropometri_kit_id_1.pdf": [
+            "Product Name : Antropometri (Hal. 1)"
+        ],
+        "manual_antropometri_kit_unknown.pdf": [
+            "Product Name : Antropometri (Hal. 1)"
+        ],
+        "manual_baby_digit_one_en.pdf": [
+            "before using this product. (Hal. 6)"
+        ]
+    },
+    "1.2 Panduan Keamanan": {
+        "manual_abpm50_en.pdf": [
+            "The warning items (Hal. 2)",
+            "1.1 Safety Precautions (Hal. 7)",
+            "Warning (Hal. 7)",
+            "Warning (Hal. 8)",
+            "Warning (Hal. 17)",
+            "Cautions (Hal. 20)",
+            "Warning (Hal. 21)",
+            "Warning (Hal. 38)",
+            "Warning (Hal. 40)",
+            "Warning (Hal. 43)",
+            "Warning (Hal. 48)",
+            "Safety classification (Hal. 82)",
+            "Warning (Hal. 89)",
+            "ESD precautions. (Hal. 90)"
+        ],
+        "manual_abpm50_id.pdf": [
+            "Item peringatan (Hal. 3)",
+            "1.1 Tindakan Pencegahan (Hal. 9)",
+            "Peringatan (Hal. 9)",
+            "Peringatan (Hal. 10)",
+            "Peringatan (Hal. 21)",
+            "Peringatan (Hal. 25)",
+            "Peringatan (Hal. 43)",
+            "Peringatan (Hal. 46)",
+            "Peringatan (Hal. 49)",
+            "Peringatan (Hal. 50)",
+            "Peringatan (Hal. 55)",
+            "Perlindungan terhadap (Hal. 89)",
+            "Klasifikasi keamanan (Hal. 91)",
+            "Peringatan (Hal. 98)"
+        ],
+        "manual_aeolus_en.pdf": [
+            "ke bagian tersebut yang oxygen PERINGATAN (Hal. 1)",
+            "PERINGATAN (Hal. 1)",
+            "PERINGATAN (Hal. 7)",
+            "PERINGATAN (Hal. 8)"
+        ],
+        "manual_asl_300_id.pdf": [
+            "Peringatan, harap untuk hati-hati. (Hal. 2)"
+        ],
+        "manual_baby_digit_one_en.pdf": [
+            "A Warning (Hal. 6)",
+            "Caution: The scroll loop must not exceed one complete loop. (Hal. 8)"
+        ],
+        "manual_baby_digit_one_id.pdf": [
+            "dan rata untuk kenyamanan dan keamanan bayi. (Hal. 5)",
+            "A. Peringatan (Hal. 6)"
+        ]
+    },
+    "1.3 Penjelasan Simbol": {
+        "manual_abpm50_en.pdf": [
+            "4.7 Key and Symbols (Hal. 51)",
+            "Signal Description Signal Description (Hal. 51)",
+            "3. An indicator of signal (Hal. 52)",
+            "with the following symbol: (Hal. 86)"
+        ],
+        "manual_abpm50_id.pdf": [
+            "4.7 Tombol dan Simbol (Hal. 59)",
+            "Signal Description Signal Description (Hal. 59)",
+            "simbol ini mengindikasikan Unit sesuai dengan Medical (Hal. 61)",
+            "ditandai dengan simbol berikut: (Hal. 95)"
+        ],
+        "manual_asl_300_id.pdf": [
+            "V. Arti simbol Dimensi (Hal. 2)"
+        ]
+    },
+    "1.4 Singkatan": {
+        "manual_abpm50_en.pdf": [
+            "Foreword (Hal. 2)"
+        ],
+        "manual_abpm50_id.pdf": [
+            "4) Kantong (Hal. 20)"
+        ]
+    },
+    "2.0 Instalasi": {
+        "manual_abpm50_en.pdf": [
+            "3.4.1 System Setup (Hal. 26)",
+            "Figure 3.4.2 ABPM Setup (Hal. 27)",
+            "3.4.4 Prompt Setup (Hal. 30)"
+        ],
+        "manual_abpm50_id.pdf": [
+            "2.2 Instalasi Baterai (Hal. 23)",
+            "4.2 Pemasangan Manset dan Pengukuran NIBP (Hal. 46)",
+            "Gambar 4.2.1 Pemasangan manset (Hal. 48)",
+            "Bab 5 Instalasi Perangkat Lunak (Hal. 62)"
+        ]
+    },
+    "3.1 Antarmuka Pengguna": {
+        "manual_abpm50_en.pdf": [
+            "or no display content, please contact our company. (Hal. 11)",
+            "1.4 Interfaces (Hal. 14)",
+            "Chapter 3 Function Interface (Hal. 23)",
+            "3.1 Main Interface (Hal. 23)",
+            "In the Main Interface: (Hal. 23)",
+            "is shown in the main interface. (Hal. 24)",
+            "3.2 Measuring Interface (Hal. 24)",
+            "Figure 3.4.1 System Menu (Hal. 26)",
+            "SET] menu, the pop-up menu is shown in the Figure 3.4.2: (Hal. 27)",
+            "menu in [SYSTEM MENU] to enter its interface. (Hal. 33)",
+            "Figure 3.4.5 ABPM Prompt Menu (Hal. 33)",
+            "Figure 3.4.6 ABPM Working Interface (Hal. 34)",
+            "Display message Cause Solution (Hal. 46)",
+            "Display: Resolution ratio 1024*768 or higher (Hal. 54)",
+            "6.2 Main Interface (Hal. 57)",
+            "Figure 6.2 Main Interface (Hal. 57)",
+            "Current Time: Current system display time (Hal. 60)",
+            "6.11 Display of Statistics Information (Hal. 69)",
+            "respectively display the analysis values in each period. (Hal. 74)",
+            "Display 2.4” color LCD Display (Hal. 79)"
+        ],
+        "manual_abpm50_id.pdf": [
+            "Untuk petunjuk pengoperasian dasar, lihat Fungsi Tombol. (Hal. 9)",
+            "\"Fungsi Tombol\" untuk detailnya) (Hal. 16)",
+            "1.3 Fungsi Tombol (Hal. 17)",
+            "tertera pada masing-masing tombol. Antara lain: (Hal. 17)",
+            "tekan tombol dan sistem segera menjalankan fungsi tertentu. (Hal. 17)",
+            "Teks di kiri bawah layar menunjukkan fungsi tombol ini. (Hal. 17)",
+            "dan tombol kiri di bagan \"TREND\". (Hal. 17)",
+            "Teks di kanan bawah layar menunjukkan fungsi tombol ini. (Hal. 17)",
+            "bawah di \"SYSTEM MENU\" dan tombol kanan di bagan \"TREND\". (Hal. 18)",
+            " Selama pengukuran, tiga tombol semuanya dinonaktifkan. (Hal. 18)",
+            "antarmuka utama. (Hal. 28)",
+            "Gambar 3.4.1 Menu Sistem (Hal. 30)",
+            "Gambar 3.4.5 Menu Prompt ABPM (Hal. 38)",
+            "jika tidak, tampilan layar mungkin rusak. (Hal. 58)",
+            "Tampilan: Rasio resolusi 1024*768 atau lebih (Hal. 62)",
+            "Current Time: Waktu tampilan sistem saat ini (Hal. 68)",
+            "Tampilan direktori tujuan akan ditunjukkan seperti berikut. (Hal. 73)",
+            "Gambar 6.9 Tampilan Edit Data (Hal. 74)",
+            "6.11 Tampilan Informasi Statistik (Hal. 78)",
+            "saat Anda memilih tombol Factory Default. (Hal. 81)",
+            "Klik tombol pintas , dan antarmuka berikut akan muncul. (Hal. 82)",
+            "Klik tombol pintas , dan antarmuka berikut akan muncul. (Hal. 83)",
+            "Tampilan Tampilan LCD berwarna, 2.4\" (Hal. 88)"
+        ],
+        "manual_aeolus_en.pdf": [
+            "Diperlukan Tekan tombol sirkuit pemutus (jika dilengkapi) (Hal. 5)"
+        ],
+        "manual_asl_300_id.pdf": [
+            "menekan tombol OFF pada switch on/off. (Hal. 2)"
+        ],
+        "manual_baby_digit_one_en.pdf": [
+            "Display reading figure (Hal. 8)",
+            "monitor) (Hal. 8)",
+            "shown on the display. (Hal. 8)"
+        ],
+        "manual_baby_digit_one_id.pdf": [
+            " Layar jarum bulat dan besar dengan diameter 170mm (Hal. 7)",
+            "Display angka pembacaan (Hal. 8)",
+            "monitor) (Hal. 8)",
+            "ditunjukkan pada display. (Hal. 8)"
+        ],
+        "manual_baby_one_en.pdf": [
+            "2.2 Keterangan Tombol (Hal. 2)",
+            "O Tombol power untuk menyalakan atau mematikan unit (Hal. 2)",
+            "Tombol memori untuk melihat hasil penimbangan sebelumnya (Hal. 2)",
+            "Tara Tombol tara untuk mengunakan kain untuk penimbangan (Hal. 2)",
+            "2.3 Display (Hal. 2)",
+            "1 Display Nilai perhitungan berat bayi (Hal. 3)"
+        ]
+    },
+    "3.2 Overview": {
+        "manual_abpm50_en.pdf": [
+            "device is used in accordance with the User Manual. (Hal. 4)",
+            "and use this product properly. (Hal. 7)",
+            "1.5 Accessories (Hal. 15)",
+            "■ Check all the cables, modules and accessories. (Hal. 19)",
+            "■ Do not soak the device and accessories in liquid. (Hal. 48)",
+            "the user manual. (Hal. 50)",
+            "Accessories (Hal. 82)"
+        ],
+        "manual_abpm50_id.pdf": [
+            "keandalan, dan kinerja perangkat: (Hal. 4)",
+            "perangkat digunakan sesuai dengan Buku Manual. (Hal. 4)",
+            "aksesori berfungsi dengan baik dan aman sebelum digunakan. (Hal. 11)",
+            "1.5 Aksesoris (Hal. 20)",
+            "perangkat. (Hal. 55)",
+            "Aksesoris (Hal. 91)",
+            "peralatan dan system (Hal. 92)"
+        ],
+        "manual_aeolus_en.pdf": [
+            "penutupan listrik. aksesoris wadah (Hal. 3)",
+            "2. Pasang aksesoris oksigen yang tepat ke outlet oksigen. (Hal. 5)",
+            "AKSESORIS (Hal. 7)"
+        ],
+        "manual_baby_digit_one_en.pdf": [
+            " Please save the User Manual carefully. (Hal. 6)"
+        ],
+        "manual_baby_digit_one_id.pdf": [
+            "silahkan baca User Manual sebelum menggunakan produk ini. (Hal. 6)",
+            " Harap menyimpan User Manual baik-baik. (Hal. 6)"
+        ],
+        "manual_baby_one_en.pdf": [
+            "3.7 Gunakan adaptor asli Elitech. (Hal. 5)"
+        ]
+    },
+    "3.3 Manajemen Pengguna": {
+        "manual_abpm50_en.pdf": [
+            "user's data record. (Hal. 23)",
+            "3.5 Ordinary User Data Review (Hal. 37)",
+            " Ordinary User \"LIST\" Data Review (Hal. 37)",
+            " Ordinary User \"TREND\" Data Review (Hal. 37)",
+            "6.1 User Register (Hal. 55)",
+            "Patient Name: the patient's name (Hal. 60)",
+            "6.12 Patient Information Settings (Hal. 70)",
+            "Figure 6.12 Edit Patient's Information (Hal. 70)"
+        ],
+        "manual_abpm50_id.pdf": [
+            "catatan data pengguna umum. (Hal. 27)",
+            "3.4.1 Pengaturan Sistem (Hal. 30)",
+            "Gambar 3.4.2 Pengaturan ABPM (Hal. 31)",
+            "pengaturan dan kembali ke menu sebelumnya. (Hal. 33)",
+            "3.4.4 Pengaturan Prompt (Hal. 35)",
+            "buat pengaturan yang sesuai menurut prosedur berikut: (Hal. 35)",
+            "pengguna (Hal. 36)",
+            "3.5 Tinjauan Data Pengguna Biasa (Hal. 42)",
+            " Ulasan Data \"LIST\" Pengguna Biasa (Hal. 42)",
+            " Ulasan Data “TREND” Pengguna Biasa (Hal. 42)",
+            "pengguna) user manual). (Hal. 59)",
+            "6.1 Registrasi Pasien (Hal. 63)",
+            "Gambar 6.1.2 Pengaturan Konfigurasi (Hal. 64)",
+            "6.4 Pengaturan Collection Plan (Hal. 67)",
+            "pengaturan. Penjelasan parameter adalah sebagai berikut: (Hal. 67)",
+            "Patient Name: nama pasien (Hal. 68)",
+            "Gambar 6.8.2 Pengaturan Path Cadangan (Hal. 73)",
+            "6.12 Pengaturan Informasi Pasien (Hal. 79)",
+            "6.13 Pengaturan Waktu Tidur (Sleep Time) (Hal. 80)",
+            "Gambar 6.13 Pengaturan waktu tidur (Hal. 80)",
+            "6.14 Pengaturan Ambang Batas (threshold) BP (Hal. 81)",
+            "Gambar 6.14 Pengaturan Ambang batas BP (Hal. 81)"
+        ]
+    },
+    "3.4 Prosedur Pemantauan": {
+        "manual_abpm50_en.pdf": [
+            "the operating procedure of the User Manual. (Hal. 3)",
+            "1. To start auto measuring: (Hal. 42)",
+            "3. To start a manual measuring: (Hal. 43)",
+            "process. (Hal. 46)",
+            "probe 2. An indicator of signal (Hal. 52)"
+        ],
+        "manual_abpm50_id.pdf": [
+            "perangkat di bawah pengawasan dokter. (Hal. 10)",
+            "2.4 Hubungkan Sensor (Hal. 26)",
+            "Hubungkan sensor antara Monitor dan bagian pengukur pasien. (Hal. 26)",
+            "4.1.1 Cara Pengukuran Yang Akurat (Hal. 44)",
+            "4.3 Petunjuk Operasi (Hal. 49)",
+            "1. Untuk memulai pengukuran otomatis: (Hal. 49)",
+            "3. Untuk memulai pengukuran manual: (Hal. 49)",
+            "dengan metode alternatif sebelum memeriksa fungsi monitor. (Hal. 50)",
+            "sinyal selama proses pengukuran. (Hal. 53)",
+            "Akurasi Pengukuran (Hal. 90)",
+            "pengukuran dari stetoskopi, verifikasi klinis sesuai dengan (Hal. 90)"
+        ],
+        "manual_aeolus_en.pdf": [
+            "tingkat uji (Hal. 1)",
+            "ditangani dengan hati-hati. (Hal. 2)"
+        ],
+        "manual_baby_digit_one_en.pdf": [
+            "5. Attention safety (Hal. 5)",
+            "4. Intruksi Pengoperasian (Hal. 8)"
+        ],
+        "manual_baby_digit_one_id.pdf": [
+            "Operasi Manual (Hal. 7)",
+            "4. Intruksi Pengoperasian (Hal. 8)"
+        ],
+        "manual_baby_one_en.pdf": [
+            "Bab 3 Perhatikan sebelum Pengoperasian (Hal. 5)"
+        ]
+    },
+    "3.5 Perhitungan Medis": {
+        "manual_abpm50_en.pdf": [
+            "clinical evaluation. (Hal. 8)",
+            "The measure result includes: (Hal. 25)",
+            "4.1.1 Accurate Measurement Way (Hal. 39)",
+            "measurement value of Stethoscopy, perform clinical (Hal. 81)"
+        ],
+        "manual_abpm50_id.pdf": [
+            "nilai minimum sinyal fisiologis pasien. (Hal. 46)",
+            "mendapatkan pengukuran. (Hal. 51)"
+        ],
+        "manual_aeolus_en.pdf": [
+            "resep yang sudah ditentukan oleh dokter anda. (Hal. 1)"
+        ],
+        "manual_baby_digit_one_id.pdf": [
+            " Pastikan jarum timbangan menunjukkan angka nol sebelum (Hal. 8)"
+        ],
+        "manual_baby_one_en.pdf": [
+            "Medikal grade Kelas 4 (Hal. 1)"
+        ]
+    },
+    "3.6 Manajemen Rekaman & Tinjauan Hasil": {
+        "manual_abpm50_id.pdf": [
+            "6.5 Pengunduhan Data (Hal. 69)",
+            "6.8 Pencadangan File Data (Hal. 72)",
+            "6.9 Pengeditan Data BP (Hal. 74)",
+            "6.18 Cetak Laporan (Hal. 85)"
+        ],
+        "manual_baby_one_en.pdf": [
+            "5 Memori terakhir Hasil nilai penimbangan sebelumnya (Hal. 3)"
+        ]
+    },
+    "4.1 Inspeksi Umum": {
+        "manual_abpm50_en.pdf": [
+            "■ Check for any mechanical damage. (Hal. 19)",
+            "evaluation. (Hal. 38)"
+        ],
+        "manual_abpm50_id.pdf": [
+            " Periksa apakah ada kerusakan mekanis. (Hal. 23)",
+            "pengukuran manual. (Hal. 32)",
+            " Mengukur dalam kendaraan yang bergerak; (Hal. 52)",
+            "Gambar 6.6 Pilih pemeriksaan (Hal. 70)"
+        ]
+    },
+    "4.2 Pemeliharaan": {
+        "manual_abpm50_en.pdf": [
+            "relate to the maintenance instructions. (Hal. 3)",
+            "4.5 Maintenance and Cleaning (Hal. 47)",
+            "Maintenance: (Hal. 48)"
+        ],
+        "manual_abpm50_id.pdf": [
+            "4.5 Pemeliharaan dan Pembersihan (Hal. 55)",
+            "Pemeliharaan: (Hal. 55)"
+        ],
+        "manual_aeolus_en.pdf": [
+            "PEMELIHARAAN BERKALA UNTUK UNIT (Hal. 8)",
+            "Pemeliharaan berkala untuk unit anda (Hal. 9)"
+        ],
+        "manual_asl_300_id.pdf": [
+            "Instruksi Pengoperasian Kondisi Kelembapa (Hal. 2)",
+            "XI. Pemeliharaan Dan Perbaikan Alat (Hal. 3)",
+            "Petunjuk singkat perbaikan alat (Hal. 3)",
+            "XII. Pembuangan sisa produk (Hal. 3)",
+            "pembuangan sisa produk, termasuk bahan kemasan, (Hal. 3)"
+        ],
+        "manual_baby_digit_one_id.pdf": [
+            " Tetap bersihkan timbangan untuk memastikan kerja normal. (Hal. 5)"
+        ],
+        "manual_baby_one_en.pdf": [
+            "Bab 5 Perawatan dan Pemeliharaan (Hal. 6)"
+        ]
+    },
+    "4.3 Perawatan": {
+        "manual_abpm50_en.pdf": [
+            "taking out from the lowest storage temperature. (Hal. 41)",
+            "taking out from the highest storage temperature. (Hal. 41)",
+            "Storage: (Hal. 50)",
+            "4.6 Transportation and Storage (Hal. 51)",
+            "Storage atmospheric pressure (Hal. 52)",
+            "Storage temperature limitation Storage humidity limitation (Hal. 52)",
+            "Storage (Hal. 81)"
+        ],
+        "manual_abpm50_id.pdf": [
+            "yang berhubungan dengan petunjuk perawatan. (Hal. 3)",
+            "Penyimpanan: (Hal. 57)",
+            "4.6 Transportasi dan Penyimpanan (Hal. 59)",
+            "Simpan di tempat kering penyimpanan (Hal. 60)",
+            "Batas suhu penyimpanan Batas kelembaban penyimpanan (Hal. 60)",
+            "Penyimpanan (Hal. 90)"
+        ],
+        "manual_aeolus_en.pdf": [
+            "Jangan mencoba perawatan lainnya. (Hal. 6)"
+        ],
+        "manual_asl_300_id.pdf": [
+            "mengoperasikan dan disimpan untuk pemakaian yang akan (Hal. 1)",
+            "Penyimpanan Tekanan (Hal. 2)",
+            "garansi. Item perawatan normal dan komponen sekali (Hal. 3)"
+        ],
+        "manual_baby_digit_one_id.pdf": [
+            " Penyimpanan: Jangan letakkan benda apapun pada timbangan (Hal. 6)"
+        ],
+        "manual_baby_one_en.pdf": [
+            "Penyimpanan dan Pemindahan (Hal. 1)"
+        ]
+    },
+    "4.4 Pembersihan": {
+        "manual_abpm50_en.pdf": [
+            "main unit must be separated for cleaning. (Hal. 48)",
+            "Cleaning: (Hal. 48)",
+            "cleaned using soap solution to prevent infection. (Hal. 50)"
+        ],
+        "manual_abpm50_id.pdf": [
+            "Pembersihan: (Hal. 55)"
+        ],
+        "manual_aeolus_en.pdf": [
+            "Jika itu filter kotor, mencuci saya t (Hal. 4)",
+            "mengikuti petunjuk pembersihan (Hal. 4)",
+            "setelah pembersihan.petunjuk pada (Hal. 4)",
+            "pembersihan yang disediakan, ikuti langkah-langkah : (Hal. 8)",
+            "atau spons,lalubersihkan dan seka sampai kering. (Hal. 8)"
+        ],
+        "manual_asl_300_id.pdf": [
+            "anda dapat memilih seberapa lama proses pembersihan (Hal. 1)",
+            " Sterilisasi Udara (Hal. 1)",
+            "manusia, ketika proses sterilisasi udara menggunakan (Hal. 1)",
+            " Pembersihan udara dari uap beracun yang berasal dari cat (Hal. 1)",
+            "kemampuan untuk menghilangkan atau menetralisir zat (Hal. 1)",
+            "menggunakan alat ini untuk membersihkan udara selama (Hal. 1)",
+            "steril. (Hal. 1)",
+            " Pembersih Udara (Hal. 1)",
+            "sesuai keperluan, matikan sterilisator UV dengan (Hal. 2)",
+            "5. Jika proses sterilisator selesai lepas kabel power dari (Hal. 2)",
+            "VIII. Sterilisasi (Hal. 2)",
+            "Sterilisasi udara di kantor, rumah sakit, klinik medis, (Hal. 2)",
+            "menghilangkan bau di toilet untuk menghilangkan bau (Hal. 2)",
+            "X. Pembersih Udara (Hal. 2)",
+            " Permukaan unit harus tetap bersih. (Hal. 3)",
+            "Bersihkan ventilasi menggunakan kain kering atau (Hal. 3)",
+            "cairan sabun untuk menjaga unit tetap bersih (Hal. 3)"
+        ],
+        "manual_baby_one_en.pdf": [
+            "Cara pembersihan keranjang timbangan sebagai berikut: (Hal. 6)",
+            "menghilangkan busa dan bekas sabun. (Hal. 7)"
+        ]
+    },
+    "5.0 Pemecahan Masalah": {
+        "manual_abpm50_en.pdf": [
+            "4.4 NIBP Error Messages and Solutions (Hal. 46)"
+        ]
+    },
+    "6.1 Spesifikasi": {
+        "manual_abpm50_en.pdf": [
+            "Chapter 5 Requirements of Hardware (Hal. 54)",
+            "Chapter 6 Software Functions (Hal. 55)",
+            "Figure 6.1.2 Configuration Set (Hal. 56)",
+            "Figure 6.4 Set Collection Parameter (Hal. 59)",
+            "Figure 6.18.1 Configure Report (Hal. 76)",
+            "Specification (Hal. 79)",
+            "NIBP Specifications (Hal. 79)",
+            "Dimension 37(L)*69(W)*137 mm(H) (Hal. 81)",
+            "Standard configuration (Hal. 82)",
+            "for all EQUIPMENT and SYSTEMS (Hal. 83)",
+            "for all EQUIPMENT and SYSTEMS (Hal. 84)",
+            "used in accordance with these guidelines. (Hal. 89)"
+        ],
+        "manual_abpm50_id.pdf": [
+            "memahami sepenuhnya persyaratan dalam manual ini. (Hal. 9)",
+            "lalu tekan lama saklar daya untuk mematikannya. (Hal. 40)",
+            "Daya baterai Laju denyut (bpm) (Hal. 61)",
+            "Bab 6 Fungsi Perangkat Lunak (Hal. 63)",
+            "informasi konfigurasi. (Hal. 65)",
+            "Gambar 6.4.1 Set Collection Parameter (Hal. 67)",
+            "data \", dan antarmuka akan muncul sebagai berikut: (Hal. 72)",
+            "Spesifikasi (Hal. 88)",
+            "Spesifikasi NIBP (Hal. 88)",
+            "Sumber Daya listrik DC 3 V (Hal. 90)",
+            "Rating daya ≤3,0VA (Hal. 91)",
+            "Dimensi 37mm(P) x 69mm(L) x 137(T) (Hal. 91)",
+            "Berat unit 240 gram (tanpa baterai) (Hal. 91)",
+            "Peralatan dengan daya internal (Hal. 91)",
+            "Konfigurasi Standar: (Hal. 91)",
+            "RF emission terhubung langsung ke sumber daya tegangan (Hal. 92)",
+            "Daya frekuensi Kualitas daya listrik harus sep- (Hal. 93)",
+            "di mana P adalah rating daya keluaran maksimum pem- (Hal. 95)",
+            "Rating daya Jarak pemisahan menurut frekuensi pemancar (m). (Hal. 97)"
+        ],
+        "manual_aeolus_en.pdf": [
+            "Informasi penting yang ada di dalam dalam panduan ini: (Hal. 1)",
+            "output daya dari pemancar dalam watt (Hal. 1)",
+            "Directive 200] j96 / EC (WEEE Directive) (Hal. 2)",
+            "SPESIFIKASI (Hal. 3)",
+            "2. Daya ± 350 W (Hal. 3)",
+            "6. Berat Netto : 16.6kg (Hal. 3)",
+            "11. Kelas peralatan dan Jenis (Hal. 3)",
+            "5. Saklar daya I = ON (Hal. 3)",
+            "A.Satuan tidak 1. Kabel daya tidak (Hal. 5)",
+            "daya mati saat dengan benar ke (Hal. 5)",
+            "saklar daya. 2. Tidak ada daya (Hal. 5)",
+            "lampu Daya (Hal. 5)"
+        ],
+        "manual_antropometri_kit_id.pdf": [
+            "Configuration 2 (Hal. 1)"
+        ],
+        "manual_antropometri_kit_id_1.pdf": [
+            "Configuration 2 (Hal. 1)"
+        ],
+        "manual_antropometri_kit_unknown.pdf": [
+            "Configuration 2 (Hal. 1)"
+        ],
+        "manual_asl_300_id.pdf": [
+            "Daya 52VA (Hal. 2)",
+            "Berat 8.85kg (dengan UV-C lamp) (Hal. 2)"
+        ],
+        "manual_baby_digit_one_en.pdf": [
+            "1. Spesifikasi teknis (Hal. 7)",
+            " Scale unit dimensions: 542mm (L) X 436mm (W) X 140mm (H) (Hal. 7)"
+        ],
+        "manual_baby_digit_one_id.pdf": [
+            "memengaruhi akurasi berat. (Hal. 5)",
+            " Overload (lebih berat dari 25kg) sangat dilarang. (Hal. 5)",
+            "2. Spesifikasi teknis (Hal. 7)",
+            " Dimensi unit timbangan : 542mm (L) X 436mm (W) X 140mm (Hal. 7)",
+            " Berat : 3,35Kg (Hal. 7)"
+        ],
+        "manual_baby_one_en.pdf": [
+            "Bab 1 Spesifikasi Teknis Utama Timbangan Baby One (Hal. 1)",
+            "1.2 Sumber daya baterai : 1.5V x 4 pcs Baterai A (Hal. 1)",
+            "1.5 Berat bersih total unit : 4.15 kg (Hal. 1)",
+            "1.6 Berat kotor total unit : 9 kg (Hal. 1)",
+            "SPESIFIKASI LENGKAP TIMBANGAN BABY ONE (Hal. 1)",
+            "Sumber daya baterai 1.5V x 4 pcs baterai A (Hal. 1)",
+            "Daya tahan baterai 800 pengukuran (Hal. 1)",
+            "Dimensi baki timbangan 600 (L) x 321 (W) x 147 (H)mm (Hal. 1)",
+            "Dimensi badan timbangan 628 (L) x 340 (W) x 246 (H)mm (Hal. 1)",
+            "Berat bersih 4.15 kg (Hal. 1)",
+            "Berat kotor 9 kg (Hal. 1)",
+            "2.1 Konstruksi utama dan nama komponen utama (Hal. 2)",
+            "2.6 Sumber Daya Baterai (Hal. 4)"
+        ]
+    },
+    "6.2 Kepatuhan Standar": {
+        "manual_abpm50_en.pdf": [
+            "IEC60601-1 standard. (Hal. 11)",
+            "SN Serial number EMC Electromagnetic compatibility (Hal. 51)",
+            "verification in accordance with the requirements in ISO (Hal. 81)",
+            "IEC60601 test Compliance Electromagnetic (Hal. 84)",
+            "IEC6 l 000-4-2 (Hal. 84)",
+            "IEC61000-4-8 environment. (Hal. 84)",
+            "Immunity IEC60601 Compliance (Hal. 85)",
+            "IEC 2.5 GHz (Hal. 86)"
+        ],
+        "manual_abpm50_id.pdf": [
+            "SN Nomor seri EMC Kompatibilitas elektromagnetik (Hal. 59)",
+            "IEC60601 tes Level kes- Lingkungan elektro- (Hal. 93)",
+            "(ESD) IEC6 l 000-4-2 tutupi dengan bahan sintetis, (Hal. 93)",
+            "IEC61000-4-8 (Hal. 93)",
+            "Tes keke- IEC60601 Level kes- (Hal. 94)",
+            "sesuai dengan informasi EMC yang diberikan di bawah ini. (Hal. 98)"
+        ],
+        "manual_aeolus_en.pdf": [
+            "Tes IEC 60601 Tingkat (Hal. 1)",
+            "IEC 61000- 80 Mhz to (Hal. 1)"
+        ]
+    },
+    "7.1 Garansi": {
+        "manual_abpm50_en.pdf": [
+            "manufacturer's warranty service does not cover such faults! (Hal. 2)"
+        ],
+        "manual_abpm50_id.pdf": [
+            "dengan kontrak. (Hal. 4)",
+            "Derajat perlindungan (Hal. 88)"
+        ],
+        "manual_asl_300_id.pdf": [
+            "XIII. Garansi (Hal. 3)",
+            "Garansi ini terbatas pada pembeli asli Air Sterilizer and (Hal. 3)",
+            "pakai tidak tercakup dalam garansi ini. Ongkos kirim jika (Hal. 3)"
+        ]
+    },
+    "7.2 Informasi Kontak": {
+        "manual_abpm50_en.pdf": [
+            "Alamat : Jl. Tambak Osowilangun Permai No. 61, (Hal. 91)",
+            "Telepon : 031-7482816 (Hal. 91)"
+        ],
+        "manual_abpm50_id.pdf": [
+            "rumah sakit atau Pusat Layanan Pelanggan kami segera. (Hal. 25)",
+            "Telepon : 031-7482816 (Hal. 101)"
+        ],
+        "manual_aeolus_en.pdf": [
+            "Periksa sambungan listrik di stopkontak. (Hal. 5)",
+            "Pada.\"Alarm pada stopkontak. (Hal. 5)",
+            "unit). stopkontak . (Hal. 5)",
+            "hubungi penyedia alat Medis Anda (Hal. 5)",
+            "a. Pasang konektor stopkontak oksigen ke outlet oksigen. (Hal. 5)"
+        ],
+        "manual_baby_digit_one_en.pdf": [
+            "Tel: + 62-31-7482816, 7492882 Fax: + 62-31-7482865 (Hal. 3)",
+            "Postal code: 60191 (Hal. 3)"
+        ],
+        "manual_baby_digit_one_id.pdf": [
+            "Tel: +62-31-7482816, 7492882 Fax: +62-31-7482865 (Hal. 3)"
+        ]
+    }
+}

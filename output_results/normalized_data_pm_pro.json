@@ -1,0 +1,20 @@
+{
+    "X.1_Klasifikasi_dan_Standar": {
+        "Standar Kepatuhan": "IEC 60601-1: 2005+A1 :2012;"
+    },
+    "X.2_Spesifikasi_Fisik": {
+        "Dimensi Fisik": "320 mm (T) x 175 mm (L)"
+    },
+    "X.3_Spesifikasi_Lingkungan": {},
+    "X.4_Sumber_Daya_dan_Baterai": {
+        "Sumber Daya Listrik": "Sumber Daya listrik",
+        "Kapasitas Baterai": [
+            "2500 mAh",
+            "5000 mAh"
+        ]
+    },
+    "X.5_Manajemen_Data": {
+        "Penyimpanan Tren": "1 jam",
+        "Kapasitas NIBP": "1200 set"
+    }
+}
